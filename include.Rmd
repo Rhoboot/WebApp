@@ -1,0 +1,42 @@
+---
+title: "CodeBook"
+author: "Roberto Parra"
+date: "24 de octubre de 2015"
+output: html_document
+---
+
+# CodeBook
+The data collected relate to:
+
+### 1) **Information College Admission**
+
+- **"LG"**: PSU score Language              
+- **"MT"**: PSU score Math              
+- **"NEM"**: Weighted high school GPA
+- **"PTJEPOND"**: Weighted Score Admission
+- **"REM"**: Weighted Score high school 
+- **"PlanEstudio"**: Program of Study. (Civil Engineering=IND or Business Administration=COM)      
+- **"UA"**: Campus (Santiago=S o Viña del Mar=V) 
+
+### 2) **Student Status in t=2**
+
+- **"PROM"**: Weighted average            
+- **"ICA"**: Student quality index
+
+
+### 3) **Diagnostic Test**
+
+- **"PTEST"** : Percentage of Achievement in Mathematics Diagnostic Test    
+
+### 4) **Grades in Mathematics**
+
+- **"NP1AL"**: Algebra 1 Test Grades          
+- **"NP2AL"**: Algebra 2 Test Grades          
+- **"NP3AL"**: Algebra 3 Test Grades            
+- **"NP1CAL"**: Calculus 1 Test Grades            
+- **"NP2CAL"**: Calculus 2 Test Grades            
+- **"NP3CAL"**: Calculus 3 Test Grades            
+- **"NFAL"** : Algebra Final Grade
+- **"NFCAL"** : Calculus Final Grade 
+- **"PROM.MAT"**: Averages in Mathematics        
+
