@@ -1,3 +1,5 @@
+DMAT<-read.csv("./data/DATAMAT.csv",header=TRUE,sep=";",dec=",") 
+DMAT<-DMAT[complete.cases(DMAT),]
 library(ggplot2)
 library(grid)
 library(gridExtra)
